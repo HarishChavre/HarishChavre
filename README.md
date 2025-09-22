@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm Harish Chavre
+  Hi there, I'm Harish Chavre
 </h1>
 
 <p align="center">
@@ -10,14 +10,14 @@
 
 ---
 
-## 🚀 About Me
-- 💻 Skilled in building scalable apps with **React, Node.js, Express, MongoDB, and MySQL**  
-- 🐧 **Debian Contributor** – packaged & maintained tools in the Debian ecosystem  
-- 👨‍💻 Contributed to **Debian Med projects** and **Node.js packages**  
-- 🎓 Completed **MCA** at G H Raisoni University, Nagpur  
-- 🏆 **Google Summer of Code 2025 Participant** – contributed to Linux Project  
-- 🌱 Currently learning **DSA in C++, DevOps, CI/CD, and System Design**  
-- 📫 Reach me at: **[harishpchavre@gmail.com](mailto:harishpchavre@gmail.com)**  
+##  About Me
+-  Skilled in building scalable apps with **React, Node.js, Express, MongoDB, and MySQL**  
+-  **Debian Contributor** – packaged & maintained tools in the Debian ecosystem  
+-  Contributed to **Debian Med projects** and **Node.js packages**  
+-  Completed **MCA** at G H Raisoni University, Nagpur  
+-  **Google Summer of Code 2025 Participant** – contributed to Linux Project  
+-  Currently learning **DSA in C++, DevOps, CI/CD, and System Design**  
+-  Reach me at: **[harishpchavre@gmail.com](mailto:harishpchavre@gmail.com)**  
 
 ---
 
@@ -46,16 +46,17 @@
 
 ---
 
-## 📌 Featured Projects
-- [🌱 Farmwise](#) – MERN app for farmers with crop/weather monitoring & advice  
-- [🍴 KnowFood](#) – Food ingredients & additives tracker with clean React UI  
-- [🏥 Hospital Management System](#) – Role-based dashboards using React.js, Tailwind CSS, and MUI  
-- [🐧 Debian Contributions](#) – Packaged and maintained Debian packages, contributed to **Debian Med** projects  
-- [📦 Node.js Packages](#) – Published and maintained reusable open-source Node modules  
+##  Featured Projects
+- [ Farmwise-App](https://github.com/harishchavre/Farmwise-App) – MERN app for farmers with crop/weather monitoring & advice  
+- [ KnowFood.io](https://github.com/harishchavre/KnowFood.io) – Food ingredients & additives tracker with clean React UI  
+- [ BotSage](https://github.com/harishchavre/BotSage) – AI-powered chatbot with modern UI and backend integration  
+- [ Debian Contributions](https://salsa.debian.org/Harish1) – Packaged & maintained Debian tools, contributed to **Debian Med** projects  
+- [ Node.js Packages](#) – Published and maintained reusable open-source Node modules  
+
 
 ---
 
-## 📊 GitHub & Open Source Stats
+##  GitHub & Open Source Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harishchavre&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishchavre&theme=tokyonight&hide_border=true" height="180"/>
@@ -67,13 +68,13 @@
 
 ---
 
-## 🏆 Achievements & Certifications
-- 🎖️ **Google Summer of Code 2025 Participant**  
-- 🐧 **Debian Contributor – Packaging & Debian Med Projects**  
-- 🎓 **Docker Certification**  
-- 🎓 **Java Programming Certificate**  
-- 🎓 **Responsive Web Design Certificate**  
+##  Achievements & Certifications
+-  **Google Summer of Code 2025 Participant**  
+-  **Debian Contributor – Packaging & Debian Med Projects**  
+-  **Docker Certification**  
+-  **Java Programming Certificate**  
+-  **Responsive Web Design Certificate**  
 
 ---
 
-⚡ *“Building scalable solutions and contributing to open source communities.”*
+ *“Building scalable solutions and contributing to open source communities.”*
